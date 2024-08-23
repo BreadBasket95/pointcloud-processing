@@ -1,0 +1,14 @@
+# Ignore build directory
+voxel_ws/build/
+
+# Ignore logs directory
+voxel_ws/logs/
+
+# Ignore catkin tools directory
+voxel_ws/.catkin_tools/
+
+# Ignore devel directory
+voxel_ws/devel/
+
+# Ignore Visual Studio Code settings
+voxel_ws/.vscode/
