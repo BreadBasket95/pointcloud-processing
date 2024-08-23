@@ -30,3 +30,8 @@ if you view the resulting ply in meshlab it should look something like this depe
 
 extract_sensor_poses_per_scan reads in a bag file, subscribes to the /lvi_sam/lidar/mapping/odometry topic, and simply outputs the x,y,z location to a txt file.
 
+# more pictures of normal pointcloud and the bad mesh because my gpu is bad
+
+![Image Description](2023-09-02_14-21-36.png)
+![Image Description](2023-09-02_14-22-23.png)
+![Image Description](2023-09-02_14-25-41.png)
